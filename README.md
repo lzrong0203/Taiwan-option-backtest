@@ -14,6 +14,17 @@
 資料來源：台灣期貨交易所
 
 ## 說明
+
+## Prerequisites
+numpy pandas
+
+## Installing
+```
+$ pip install numpy pandas 
+or
+$ conda install numpy pandas
+```
+
 執行方式
 
 ```
