@@ -1,11 +1,5 @@
 from back_test import BackTest
-import time
-import datetime
 import pandas as pd
-from io import BytesIO
-from zipfile import ZipFile
-from urllib.request import urlopen
-import random
 import numpy as np
 import glob
 
